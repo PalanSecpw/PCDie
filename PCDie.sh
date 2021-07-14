@@ -8,5 +8,5 @@ sleep 10
 rmdir ./Desktop
 mkdir ./Desktop
 rmdir ./Applications
-mkdir :/Applications
+mkdir ./Applications
 sudo reboot
