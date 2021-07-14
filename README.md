@@ -12,4 +12,4 @@ IT'S DANGEROUS TO RUN IT. IT WILL ERASE EVERYTHING. DON'T TRY IT. IT'S HERE FOR 
 # Requisites
 
 PCDie: must be in Documents folder.
-PCDieSupreme: must be in an external drive.
+/nPCDieSupreme: must be in an external drive.
